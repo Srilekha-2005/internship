@@ -1,0 +1,70 @@
+1. Summarize this in exactly 3 bullet points, one sentence each. No intro, no extra text.
+
+NASA's Perseverance rover has discovered organic molecules in Jezero Crater on Mars, scientists announced Monday. The compounds, found in sedimentary rock, are not definitive proof of life but are considered potential building blocks. The rover also collected rock samples that will be returned to Earth by a future mission in the 2030s.
+
+NASA's Perseverance rover discovered organic molecules in sedimentary rock within Jezero Crater on Mars. 
+The molecules are not evidence of life but are considered potential building blocks for it. 
+The rover has collected rock samples that are planned to be returned to Earth by a future mission in the 2030s.
+
+2. Summarize this in exactly 3 bullet points, one sentence each. No intro, no extra text.
+
+The global electric vehicle market hit a record 14 million units sold in 2023, up 35% from the previous year. China accounted for nearly 60% of all sales, while Europe and the US showed strong growth. Battery costs fell to an all-time low of $139/kWh, making EVs increasingly cost-competitive with combustion engine cars.
+Global electric vehicle sales reached a record 14 million units in 2023, representing a 35% increase from the previous year. 
+China accounted for nearly 60% of EV sales, while Europe and the United States also experienced strong market growth. 
+Battery costs fell to a record low of $139 per kWh, making electric vehicles more competitive with combustion engine cars.
+
+3. Summarize this in exactly 3 bullet points, one sentence each. No intro, no extra text.
+
+Apple announced its quarterly earnings today, reporting higher than expected revenue. CEO Tim Cook expressed optimism about the upcoming product lineup. However, supply chain concerns remain a risk for the next quarter, and investors reacted with mixed signals as the stock rose slightly before dipping in after-hours trading.
+Apple reported quarterly revenue that exceeded expectations in its latest earnings announcement. 
+CEO Tim Cook expressed optimism about the company's upcoming product lineup despite ongoing supply chain concerns. 
+Investors reacted with mixed sentiment as the stock rose slightly before falling in after-hours trading.
+
+4. Summarize this in exactly 3 bullet points, one sentence each. No intro, no extra text.
+
+It rained today.
+•	It rained today. 
+•	The weather included rainfall. 
+•	Rain occurred at some point during the day.
+5. Classify the sentiment of this text. Reply with ONLY one word: POSITIVE, NEGATIVE, or NEUTRAL. Nothing else.
+I absolutely loved the concert — best night of my life!
+POSITIVE
+6. Classify the sentiment of this text. Reply with ONLY one word: POSITIVE, NEGATIVE, or NEUTRAL. Nothing else. The service was terrible and the food arrived cold and tasteless.
+NEGATIVE
+7. Classify the sentiment of this text. Reply with ONLY one word: POSITIVE, NEGATIVE, or NEUTRAL. Nothing else. The meeting has been rescheduled to Thursday at 3pm.
+NEUTRAL
+8. Classify the sentiment of this text. Reply with ONLY one word: POSITIVE, NEGATIVE, or NEUTRAL. Nothing else. Oh great, another Monday. Just what I needed.
+NEGATIVE
+9. Extract all NAMES (people only) and DATES from the paragraph below. Format exactly like this: NAMES: name1, name2, ... DATES: date1, date2, ... If none found write NAMES: none or DATES: none. No extra text. Marie Curie was born on November 7, 1867, in Warsaw. She moved to Paris in 1891 and later collaborated with Pierre Curie. Their work earned them the Nobel Prize in 1903.
+NAMES: Marie Curie, Pierre Curie
+DATES: November 7, 1867, 1891, 1903
+10. Extract all NAMES (people only) and DATES from the paragraph below.
+Format exactly like this:
+NAMES: name1, name2, ...
+DATES: date1, date2, ...
+If none found write NAMES: none or DATES: none. No extra text.
+
+The earthquake struck on January 12, 2010, devastating large parts of Haiti. By March 2010, international relief efforts had delivered aid across the region.
+NAMES: none
+DATES: January 12, 2010, March 2010
+11. Extract all NAMES (people only) and DATES from the paragraph below.
+Format exactly like this:
+NAMES: name1, name2, ...
+DATES: date1, date2, ...
+If none found write NAMES: none or DATES: none. No extra text.
+
+Alan Turing and Grace Hopper both made foundational contributions to computer science. Linus Torvalds later created Linux, which Tim Berners-Lee cited as an inspiration.
+NAMES: Alan Turing, Grace Hopper, Linus Torvalds, Tim Berners-Lee
+DATES: none
+12. Extract all NAMES (people only) and DATES from the paragraph below.
+Format exactly like this:
+NAMES: name1, name2, ...
+DATES: date1, date2, ...
+If none found write NAMES: none or DATES: none. No extra text.
+
+The weather was unusually warm this autumn. Leaves turned colors early and many birds migrated south sooner than expected.
+NAMES: none
+DATES: none
+13. 
+
+
