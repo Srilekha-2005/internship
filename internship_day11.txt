@@ -1,0 +1,4 @@
+1. Classify the sentiment of this text. Reply with ONLY one word: POSITIVE, NEGATIVE, or NEUTRAL. Nothing else. The food was okay, nothing special but not bad either.
+NEUTRAL
+2. Classify the sentiment of the text. Reply with ONLY one word: POSITIVE, NEGATIVE, or NEUTRAL. Here are some examples: Text: I absolutely loved the concert — best night of my life! Sentiment: POSITIVE Text: The service was awful and the food arrived cold. Sentiment: NEGATIVE Text: The meeting has been rescheduled to Thursday at 3pm. Sentiment: NEUTRAL Text: Oh great, another delay. Just what I needed. (sarcasm) Sentiment: NEGATIVE Text: The film had breathtaking visuals but a weak storyline. Sentiment: NEGATIVE Now classify this: Text: The food was okay, nothing special but not bad either. Sentiment:
+NEUTRAL
